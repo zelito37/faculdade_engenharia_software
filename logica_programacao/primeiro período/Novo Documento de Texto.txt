@@ -1,0 +1,9 @@
+# Aula 1
+intro ao algoritms
+
+# Aula 2
+componentes e lelementos  de linguagem de progrmação
+
+# Aula  3
+
+Operaçoes e expresoes
